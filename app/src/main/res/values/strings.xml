@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetVideo</string>
+
+    <string-array name="videoClips">
+        <item>MORGENSHTERN - ДУЛО</item>
+        <item>МС ХОВАНСКИЙ - AVE HOVA</item>
+        <item>МС ХОВАНСКИЙ - Батя в Здании</item>
+        <item>#ЛАРИНПРОТИВ</item>
+    </string-array>
+</resources>
+
